@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/urjagunjan/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/urjagunjan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/urjagunjan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0299-bulls-and-cows](https://github.com/urjagunjan/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0496-next-greater-element-i](https://github.com/urjagunjan/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/urjagunjan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/urjagunjan/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0299-bulls-and-cows](https://github.com/urjagunjan/LeetCode/tree/master/0299-bulls-and-cows) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/urjagunjan/LeetCode/tree/master/0059-spiral-matrix-ii) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/urjagunjan/LeetCode/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
