@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/urjagunjan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/urjagunjan/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Stack
 |  |
 | ------- |
