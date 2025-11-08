@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/urjagunjan/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/urjagunjan/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0561-array-partition](https://github.com/urjagunjan/LeetCode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/urjagunjan/LeetCode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/urjagunjan/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0561-array-partition](https://github.com/urjagunjan/LeetCode/tree/master/0561-array-partition) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/urjagunjan/LeetCode/tree/master/0724-find-pivot-index) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/urjagunjan/LeetCode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/urjagunjan/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
