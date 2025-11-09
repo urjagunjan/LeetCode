@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/urjagunjan/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/urjagunjan/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/urjagunjan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/urjagunjan/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/urjagunjan/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/urjagunjan/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
