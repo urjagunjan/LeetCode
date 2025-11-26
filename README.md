@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/urjagunjan/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/urjagunjan/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/urjagunjan/LeetCode/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/urjagunjan/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/urjagunjan/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/urjagunjan/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -209,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/urjagunjan/LeetCode/tree/master/0486-predict-the-winner) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/urjagunjan/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
