@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/urjagunjan/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/urjagunjan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/urjagunjan/LeetCode/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/urjagunjan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0299-bulls-and-cows](https://github.com/urjagunjan/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0496-next-greater-element-i](https://github.com/urjagunjan/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/urjagunjan/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/urjagunjan/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/urjagunjan/LeetCode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/urjagunjan/LeetCode/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/urjagunjan/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/urjagunjan/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/urjagunjan/LeetCode/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/urjagunjan/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/urjagunjan/LeetCode/tree/master/0463-island-perimeter) |
 | [2596-check-knight-tour-configuration](https://github.com/urjagunjan/LeetCode/tree/master/2596-check-knight-tour-configuration) |
