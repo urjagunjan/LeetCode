@@ -224,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/urjagunjan/LeetCode/tree/master/0046-permutations) |
+## Database
+|  |
+| ------- |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/urjagunjan/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
