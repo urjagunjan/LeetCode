@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/urjagunjan/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/urjagunjan/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/urjagunjan/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/urjagunjan/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/urjagunjan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/urjagunjan/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0390-elimination-game](https://github.com/urjagunjan/LeetCode/tree/master/0390-elimination-game) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/urjagunjan/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/urjagunjan/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/urjagunjan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/urjagunjan/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/urjagunjan/LeetCode/tree/master/0213-house-robber-ii) |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/urjagunjan/LeetCode/tree/master/0595-big-countries) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/urjagunjan/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1757-recyclable-and-low-fat-products](https://github.com/urjagunjan/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/urjagunjan/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
