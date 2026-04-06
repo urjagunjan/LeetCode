@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/urjagunjan/LeetCode/tree/master/0741-cherry-pickup) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/urjagunjan/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1034-coloring-a-border](https://github.com/urjagunjan/LeetCode/tree/master/1034-coloring-a-border) |
+| [1463-cherry-pickup-ii](https://github.com/urjagunjan/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/urjagunjan/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/urjagunjan/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/urjagunjan/LeetCode/tree/master/0463-island-perimeter) |
 | [0741-cherry-pickup](https://github.com/urjagunjan/LeetCode/tree/master/0741-cherry-pickup) |
 | [1034-coloring-a-border](https://github.com/urjagunjan/LeetCode/tree/master/1034-coloring-a-border) |
+| [1463-cherry-pickup-ii](https://github.com/urjagunjan/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/urjagunjan/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/urjagunjan/LeetCode/tree/master/0486-predict-the-winner) |
 | [0741-cherry-pickup](https://github.com/urjagunjan/LeetCode/tree/master/0741-cherry-pickup) |
 | [1013-fibonacci-number](https://github.com/urjagunjan/LeetCode/tree/master/1013-fibonacci-number) |
+| [1463-cherry-pickup-ii](https://github.com/urjagunjan/LeetCode/tree/master/1463-cherry-pickup-ii) |
 ## Memoization
 |  |
 | ------- |
