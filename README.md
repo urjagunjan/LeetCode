@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/urjagunjan/LeetCode/tree/master/1034-coloring-a-border) |
 | [1463-cherry-pickup-ii](https://github.com/urjagunjan/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1473-paint-house-iii](https://github.com/urjagunjan/LeetCode/tree/master/1473-paint-house-iii) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/urjagunjan/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/urjagunjan/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/urjagunjan/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/urjagunjan/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/urjagunjan/LeetCode/tree/master/0162-find-peak-element) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/urjagunjan/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/urjagunjan/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 ## Tree
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/urjagunjan/LeetCode/tree/master/0561-array-partition) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/urjagunjan/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/urjagunjan/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Heap (Priority Queue)
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/urjagunjan/LeetCode/tree/master/1013-fibonacci-number) |
 | [1463-cherry-pickup-ii](https://github.com/urjagunjan/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1473-paint-house-iii](https://github.com/urjagunjan/LeetCode/tree/master/1473-paint-house-iii) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/urjagunjan/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 ## Memoization
 |  |
 | ------- |
