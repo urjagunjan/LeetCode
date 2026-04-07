@@ -12,10 +12,7 @@ class Solution {
         }
         if(dp[indx][k]!=null)return dp[indx][k];
         int nextindx=binarysearch(events,events[indx][1]);
-        int take=0;
-        if(events[indx][0]>et){
-            take=events[indx][2]+solver(nextindx,events[indx][1],events,k-1);
-        }
+        int take=events[indx][2]+solver(nextindx,events[indx][1],events,k-1);
         int nottake=solver(indx+1,et,events,k);
         return dp[indx][k]=Math.max(take,nottake);
     }
