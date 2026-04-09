@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/urjagunjan/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0879-profitable-schemes](https://github.com/urjagunjan/LeetCode/tree/master/0879-profitable-schemes) |
 | [1034-coloring-a-border](https://github.com/urjagunjan/LeetCode/tree/master/1034-coloring-a-border) |
+| [1388-pizza-with-3n-slices](https://github.com/urjagunjan/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1463-cherry-pickup-ii](https://github.com/urjagunjan/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1473-paint-house-iii](https://github.com/urjagunjan/LeetCode/tree/master/1473-paint-house-iii) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/urjagunjan/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1388-pizza-with-3n-slices](https://github.com/urjagunjan/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 ## Quickselect
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/urjagunjan/LeetCode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/urjagunjan/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1388-pizza-with-3n-slices](https://github.com/urjagunjan/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 ## Counting Sort
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/urjagunjan/LeetCode/tree/master/0741-cherry-pickup) |
 | [0879-profitable-schemes](https://github.com/urjagunjan/LeetCode/tree/master/0879-profitable-schemes) |
 | [1013-fibonacci-number](https://github.com/urjagunjan/LeetCode/tree/master/1013-fibonacci-number) |
+| [1388-pizza-with-3n-slices](https://github.com/urjagunjan/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1463-cherry-pickup-ii](https://github.com/urjagunjan/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1473-paint-house-iii](https://github.com/urjagunjan/LeetCode/tree/master/1473-paint-house-iii) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/urjagunjan/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
