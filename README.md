@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/urjagunjan/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/urjagunjan/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/urjagunjan/LeetCode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/urjagunjan/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/urjagunjan/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/urjagunjan/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/urjagunjan/LeetCode/tree/master/1034-coloring-a-border) |
 | [1463-cherry-pickup-ii](https://github.com/urjagunjan/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/urjagunjan/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/urjagunjan/LeetCode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 ## Simulation
 |  |
 | ------- |
