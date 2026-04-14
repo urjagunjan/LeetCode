@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/urjagunjan/LeetCode/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/urjagunjan/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/urjagunjan/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/urjagunjan/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2864-maximum-odd-binary-number](https://github.com/urjagunjan/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 ## Sliding Window
 |  |
