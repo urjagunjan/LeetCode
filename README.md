@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/urjagunjan/LeetCode/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/urjagunjan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0299-bulls-and-cows](https://github.com/urjagunjan/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/urjagunjan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/urjagunjan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/urjagunjan/LeetCode/tree/master/0500-keyboard-row) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/urjagunjan/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/urjagunjan/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/urjagunjan/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/urjagunjan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/urjagunjan/LeetCode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/urjagunjan/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/urjagunjan/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -196,12 +198,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/urjagunjan/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/urjagunjan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/urjagunjan/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/urjagunjan/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/urjagunjan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/urjagunjan/LeetCode/tree/master/0561-array-partition) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/urjagunjan/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/urjagunjan/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -209,11 +213,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/urjagunjan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1388-pizza-with-3n-slices](https://github.com/urjagunjan/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/urjagunjan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -238,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/urjagunjan/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/urjagunjan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -312,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/urjagunjan/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/urjagunjan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
