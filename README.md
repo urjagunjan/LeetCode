@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/urjagunjan/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/urjagunjan/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/urjagunjan/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urjagunjan/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/urjagunjan/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/urjagunjan/LeetCode/tree/master/2596-check-knight-tour-configuration) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/urjagunjan/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/urjagunjan/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/urjagunjan/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urjagunjan/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2864-maximum-odd-binary-number](https://github.com/urjagunjan/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 ## Binary Search Tree
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/urjagunjan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/urjagunjan/LeetCode/tree/master/0561-array-partition) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/urjagunjan/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urjagunjan/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/urjagunjan/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Heap (Priority Queue)
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/urjagunjan/LeetCode/tree/master/0741-cherry-pickup) |
 | [1034-coloring-a-border](https://github.com/urjagunjan/LeetCode/tree/master/1034-coloring-a-border) |
 | [1463-cherry-pickup-ii](https://github.com/urjagunjan/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urjagunjan/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/urjagunjan/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/urjagunjan/LeetCode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 ## Simulation
