@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/urjagunjan/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/urjagunjan/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/urjagunjan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/urjagunjan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/urjagunjan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/urjagunjan/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/urjagunjan/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/urjagunjan/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/urjagunjan/LeetCode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/urjagunjan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/urjagunjan/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/urjagunjan/LeetCode/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/urjagunjan/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -88,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/urjagunjan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/urjagunjan/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/urjagunjan/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/urjagunjan/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/urjagunjan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/urjagunjan/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/urjagunjan/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/urjagunjan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/urjagunjan/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/urjagunjan/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/urjagunjan/LeetCode/tree/master/0070-climbing-stairs) |
