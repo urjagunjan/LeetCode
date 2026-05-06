@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/urjagunjan/LeetCode/tree/master/0724-find-pivot-index) |
 | [0741-cherry-pickup](https://github.com/urjagunjan/LeetCode/tree/master/0741-cherry-pickup) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/urjagunjan/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/urjagunjan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/urjagunjan/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0879-profitable-schemes](https://github.com/urjagunjan/LeetCode/tree/master/0879-profitable-schemes) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/urjagunjan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/urjagunjan/LeetCode/tree/master/0509-fibonacci-number) |
 | [0576-out-of-boundary-paths](https://github.com/urjagunjan/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0741-cherry-pickup](https://github.com/urjagunjan/LeetCode/tree/master/0741-cherry-pickup) |
+| [0746-min-cost-climbing-stairs](https://github.com/urjagunjan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0879-profitable-schemes](https://github.com/urjagunjan/LeetCode/tree/master/0879-profitable-schemes) |
 | [0935-knight-dialer](https://github.com/urjagunjan/LeetCode/tree/master/0935-knight-dialer) |
 | [1013-fibonacci-number](https://github.com/urjagunjan/LeetCode/tree/master/1013-fibonacci-number) |
