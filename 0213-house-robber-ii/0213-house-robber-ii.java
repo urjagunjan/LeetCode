@@ -1,21 +1,20 @@
 class Solution {
     public int rob(int[] nums) {
-        if(nums.length==1) return nums[0];
-        int [] dp=new int[nums.length];
-        Arrays.fill(dp,-1);
-        int max_1=helper(dp,nums,1,nums.length);
-        Arrays.fill(dp,-1);
-        
-        int max_2=helper(dp,nums,0,nums.length-1);
-        return Math.max(max_1,max_2);
+        int n=nums.length;
+        if(n==1)return nums[0];
+        Integer[] dp1=new Integer[n+2];
+        Integer[] dp2=new Integer[n+2];
+        int ans=Math.max(helper(0,n-2,nums,dp1),helper(1,n-1,nums,dp2));
+        return ans;
     }
-    public int helper(int[] dp,int [] nums,int indx,int length){
-        if(indx>=length) return 0;
-        if(dp[indx]!=-1) return dp[indx];
-        int include=nums[indx]+helper(dp,nums,indx+2,length);
-        int exclude=helper(dp,nums,indx+1,length);
-        
-        return dp[indx]=Math.max(include,exclude);
+    private int helper(int i,int j,int[] nums,Integer[] dp){
+        if(i>j)return 0;
 
+        if(dp[i]!=null)return dp[i];
+        int rob=nums[i]+helper(i+2,j,nums,dp);
+        int notrob=helper(i+1,j,nums,dp);
+
+        return dp[i]=Math.max(rob,notrob);
     }
+
 }
