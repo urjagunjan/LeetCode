@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/urjagunjan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/urjagunjan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/urjagunjan/LeetCode/tree/master/0500-keyboard-row) |
+| [2540-minimum-common-value](https://github.com/urjagunjan/LeetCode/tree/master/2540-minimum-common-value) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/urjagunjan/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/urjagunjan/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Linked List
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/urjagunjan/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/urjagunjan/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/urjagunjan/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2540-minimum-common-value](https://github.com/urjagunjan/LeetCode/tree/master/2540-minimum-common-value) |
 ## Array
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urjagunjan/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/urjagunjan/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2540-minimum-common-value](https://github.com/urjagunjan/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/urjagunjan/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/urjagunjan/LeetCode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/urjagunjan/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/urjagunjan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/urjagunjan/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [2540-minimum-common-value](https://github.com/urjagunjan/LeetCode/tree/master/2540-minimum-common-value) |
 ## Tree
 |  |
 | ------- |
