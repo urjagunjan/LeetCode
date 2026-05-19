@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/urjagunjan/LeetCode/tree/master/0879-profitable-schemes) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/urjagunjan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1034-coloring-a-border](https://github.com/urjagunjan/LeetCode/tree/master/1034-coloring-a-border) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/urjagunjan/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1388-pizza-with-3n-slices](https://github.com/urjagunjan/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1463-cherry-pickup-ii](https://github.com/urjagunjan/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1473-paint-house-iii](https://github.com/urjagunjan/LeetCode/tree/master/1473-paint-house-iii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/urjagunjan/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/urjagunjan/LeetCode/tree/master/0463-island-perimeter) |
 | [1034-coloring-a-border](https://github.com/urjagunjan/LeetCode/tree/master/1034-coloring-a-border) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/urjagunjan/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/urjagunjan/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/urjagunjan/LeetCode/tree/master/0463-island-perimeter) |
 | [0741-cherry-pickup](https://github.com/urjagunjan/LeetCode/tree/master/0741-cherry-pickup) |
 | [1034-coloring-a-border](https://github.com/urjagunjan/LeetCode/tree/master/1034-coloring-a-border) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/urjagunjan/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/urjagunjan/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urjagunjan/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/urjagunjan/LeetCode/tree/master/2596-check-knight-tour-configuration) |
