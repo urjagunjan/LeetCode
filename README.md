@@ -199,12 +199,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/urjagunjan/LeetCode/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/urjagunjan/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/urjagunjan/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1871-jump-game-vii](https://github.com/urjagunjan/LeetCode/tree/master/1871-jump-game-vii) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/urjagunjan/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2864-maximum-odd-binary-number](https://github.com/urjagunjan/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/urjagunjan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1871-jump-game-vii](https://github.com/urjagunjan/LeetCode/tree/master/1871-jump-game-vii) |
 ## Recursion
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/urjagunjan/LeetCode/tree/master/0724-find-pivot-index) |
+| [1871-jump-game-vii](https://github.com/urjagunjan/LeetCode/tree/master/1871-jump-game-vii) |
 ## Greedy
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/urjagunjan/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1473-paint-house-iii](https://github.com/urjagunjan/LeetCode/tree/master/1473-paint-house-iii) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/urjagunjan/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1871-jump-game-vii](https://github.com/urjagunjan/LeetCode/tree/master/1871-jump-game-vii) |
 ## Memoization
 |  |
 | ------- |
