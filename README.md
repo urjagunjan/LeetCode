@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/urjagunjan/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/urjagunjan/LeetCode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/urjagunjan/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0788-rotated-digits](https://github.com/urjagunjan/LeetCode/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/urjagunjan/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/urjagunjan/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urjagunjan/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/urjagunjan/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0741-cherry-pickup](https://github.com/urjagunjan/LeetCode/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/urjagunjan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/urjagunjan/LeetCode/tree/master/0788-rotated-digits) |
 | [0879-profitable-schemes](https://github.com/urjagunjan/LeetCode/tree/master/0879-profitable-schemes) |
 | [0935-knight-dialer](https://github.com/urjagunjan/LeetCode/tree/master/0935-knight-dialer) |
 | [1013-fibonacci-number](https://github.com/urjagunjan/LeetCode/tree/master/1013-fibonacci-number) |
