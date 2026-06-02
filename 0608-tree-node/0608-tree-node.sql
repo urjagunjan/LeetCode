@@ -1,8 +1,35 @@
 # Write your MySQL query statement below
-Select id,
+WITH RECURSIVE TreeInfo AS (
+    -- Root nodes
+    SELECT
+        id,
+        p_id,
+        0 AS level
+    FROM Tree
+    WHERE p_id IS NULL
+
+    UNION ALL
+
+    -- Traverse children
+    SELECT
+        t.id,
+        t.p_id,
+        ti.level + 1
+    FROM Tree t
+    JOIN TreeInfo ti
+        ON t.p_id = ti.id
+)
+
+SELECT
+    ti.id,
     CASE
-        when p_id is null then 'Root'
-        when id in(select p_id from Tree)then 'Inner'
-        else 'Leaf'
-    end as type
-from tree;
+        WHEN ti.p_id IS NULL THEN 'Root'
+        WHEN EXISTS (
+            SELECT 1
+            FROM Tree c
+            WHERE c.p_id = ti.id
+        ) THEN 'Inner'
+        ELSE 'Leaf'
+    END AS type
+FROM TreeInfo ti
+ORDER BY ti.id;
