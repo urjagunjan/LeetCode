@@ -1,16 +1,19 @@
 class Solution {
     public void rotate(int[][] matrix) {
-        Queue<Integer> q=new LinkedList<>();
         int n=matrix.length;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                q.add(matrix[i][j]);
+        int left=0;
+        int right=n-1;
+        while(n>0){
+            for(int i=0;i<n-1;i++){
+                int temp=matrix[left][left+i];
+                matrix[left][left+i]=matrix[right-i][left];
+                matrix[right-i][left]=matrix[right][right-i];
+                matrix[right][right-i]=matrix[left+i][right];
+                matrix[left+i][right]=temp;
             }
-        }
-        for(int j=n-1;j>=0;j--){
-            for(int i=0;i<n;i++){
-                matrix[i][j]=q.poll();
-            }
+            left++;
+            right--;
+            n-=2;
         }
     }
 }
