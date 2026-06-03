@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/urjagunjan/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/urjagunjan/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/urjagunjan/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/urjagunjan/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/urjagunjan/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/urjagunjan/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/urjagunjan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/urjagunjan/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/urjagunjan/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/urjagunjan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/urjagunjan/LeetCode/tree/master/0561-array-partition) |
