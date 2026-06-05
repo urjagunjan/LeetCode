@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/urjagunjan/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/urjagunjan/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/urjagunjan/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/urjagunjan/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/urjagunjan/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/urjagunjan/LeetCode/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/urjagunjan/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/urjagunjan/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Memoization
 |  |
 | ------- |
