@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2540-minimum-common-value](https://github.com/urjagunjan/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/urjagunjan/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/urjagunjan/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2596-check-knight-tour-configuration](https://github.com/urjagunjan/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/urjagunjan/LeetCode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/urjagunjan/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/urjagunjan/LeetCode/tree/master/0724-find-pivot-index) |
 | [1871-jump-game-vii](https://github.com/urjagunjan/LeetCode/tree/master/1871-jump-game-vii) |
+| [2574-left-and-right-sum-differences](https://github.com/urjagunjan/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
 | ------- |
