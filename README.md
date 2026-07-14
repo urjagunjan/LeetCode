@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/urjagunjan/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/urjagunjan/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/urjagunjan/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/urjagunjan/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/urjagunjan/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/urjagunjan/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/urjagunjan/LeetCode/tree/master/0049-group-anagrams) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/urjagunjan/LeetCode/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/urjagunjan/LeetCode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/urjagunjan/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/urjagunjan/LeetCode/tree/master/0561-array-partition) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/urjagunjan/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/urjagunjan/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/urjagunjan/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/urjagunjan/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/urjagunjan/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/urjagunjan/LeetCode/tree/master/0070-climbing-stairs) |
