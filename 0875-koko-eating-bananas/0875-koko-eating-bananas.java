@@ -1,33 +1,30 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int max=0;
-        for (int pile: piles) {
-            max =Math.max(max, pile);
+        for(int pile:piles){
+            max=Math.max(max,pile);
         }
-        int k=findspeed(piles,h,1,max);
-        return k;
+        return min_speed(piles,h,1,max);
     }
-    public int findspeed(int[] piles,int target,int l,int r){
-        int ans=r;
-        while(l<=r){
-            int mid=l+(r-l)/2;
+    private int min_speed(int[] piles,int h,int s,int e){
+        while(s<=e){
+            int mid=s+(e-s)/2;
 
-            if(find(mid,piles)>target){
-                l=mid+1;
+            long timetaken=checktime(piles,mid);
+            if(timetaken>h){
+                s=mid+1;
             }
             else{
-                ans=mid;
-                r=mid-1;
+                e=mid-1;
             }
-
         }
-        return ans;
+        return s;
     }
-    public long find(int mid,int[] piles){
-        long hour=0;
-        for(int banana:piles){
-            hour+=(banana+mid-1)/mid;
+    private long checktime(int[] piles,int mid){
+        long time=0;
+        for(int pile:piles){
+            time+=(pile+mid-1)/mid;
         }
-        return hour;
+        return time;
     }
 }
