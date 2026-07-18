@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/urjagunjan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/urjagunjan/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/urjagunjan/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/urjagunjan/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/urjagunjan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/urjagunjan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0299-bulls-and-cows](https://github.com/urjagunjan/LeetCode/tree/master/0299-bulls-and-cows) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/urjagunjan/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/urjagunjan/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/urjagunjan/LeetCode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/urjagunjan/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/urjagunjan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0299-bulls-and-cows](https://github.com/urjagunjan/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/urjagunjan/LeetCode/tree/master/0344-reverse-string) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/urjagunjan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/urjagunjan/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1871-jump-game-vii](https://github.com/urjagunjan/LeetCode/tree/master/1871-jump-game-vii) |
 ## Recursion
 |  |
