@@ -1,42 +1,38 @@
 class Solution {
     public String minWindow(String s, String t) {
-        int[] map = new int[128];
-        for (char c : t.toCharArray()) {
+        int[] map=new int[126];
+        for(char c:t.toCharArray()){
             map[c]++;
         }
-        
-        int left = 0;
-        int right = 0;
-        int count = 0;
-        int minLen = Integer.MAX_VALUE;
-        int startIndex = 0;
-        
-        while (right < s.length()) {
-            char rightChar = s.charAt(right);
-            if (map[rightChar] > 0) {
+        int l=0;
+        int r=0;
+        int count=0;
+        int minlen=Integer.MAX_VALUE;
+        int startindx=0;
+        while(r<s.length()){
+            char rightchar=s.charAt(r);
+            if(map[rightchar]>0){
                 count++;
             }
-            map[rightChar]--;
-            right++;
-            
-            while (count == t.length()) {
-                if (right - left < minLen) {
-                    minLen = right - left;
-                    startIndex = left;
+            map[rightchar]--;
+            r++;
+            while(count==t.length()){
+                if(r-l<minlen){
+                    minlen=r-l;
+                    startindx=l;
                 }
-                
-                char leftChar = s.charAt(left);
-                map[leftChar]++;
-                if (map[leftChar] > 0) {
+                char leftchar=s.charAt(l);
+                map[leftchar]++;
+                if(map[leftchar]>0){
                     count--;
                 }
-                left++;
+                l++;
             }
+
         }
-        
-        if (minLen == Integer.MAX_VALUE) {
+        if (minlen == Integer.MAX_VALUE) {
             return "";
         }
-        return s.substring(startIndex, startIndex + minLen);
+        return s.substring(startindx, startindx + minlen);
     }
 }
