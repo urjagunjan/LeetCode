@@ -25,7 +25,7 @@ class Solution {
         if(map.containsKey(node))return map.get(node);
         Node newNode=new Node(node.val);
         map.put(node,newNode);
-        for(Node temp: node.neighbors){
+        for(Node temp:node.neighbors){
             newNode.neighbors.add(cloneGraph(temp));
         }
         return newNode;
