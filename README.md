@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/urjagunjan/LeetCode/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/urjagunjan/LeetCode/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/urjagunjan/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1092-shortest-common-supersequence](https://github.com/urjagunjan/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/urjagunjan/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1871-jump-game-vii](https://github.com/urjagunjan/LeetCode/tree/master/1871-jump-game-vii) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/urjagunjan/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/urjagunjan/LeetCode/tree/master/0879-profitable-schemes) |
 | [0935-knight-dialer](https://github.com/urjagunjan/LeetCode/tree/master/0935-knight-dialer) |
 | [1013-fibonacci-number](https://github.com/urjagunjan/LeetCode/tree/master/1013-fibonacci-number) |
+| [1092-shortest-common-supersequence](https://github.com/urjagunjan/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1388-pizza-with-3n-slices](https://github.com/urjagunjan/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1463-cherry-pickup-ii](https://github.com/urjagunjan/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1473-paint-house-iii](https://github.com/urjagunjan/LeetCode/tree/master/1473-paint-house-iii) |
@@ -448,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/urjagunjan/LeetCode/tree/master/0207-course-schedule) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/urjagunjan/LeetCode/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
