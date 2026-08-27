@@ -1,9 +1,9 @@
 class Solution {
-    Boolean[][] dp;
+    Boolean[] dp;
     public boolean isMatch(String s, String p) {
         int i=s.length()-1;
         int j=p.length()-1;
-        dp=new Boolean[i+1][j+1];
+        dp=new Boolean[i+1];
         return solver(s,p,i,j);
     }
     private boolean solver(String s,String p,int i,int j){
@@ -21,14 +21,14 @@ class Solution {
         if(s.charAt(i)==p.charAt(j)|| p.charAt(j)=='?'){
             return solver(s,p,i-1,j-1);
         }
-        if(dp[i][j]!=null)return dp[i][j];
+        if(dp[i]!=null)return dp[i];
 
         if(p.charAt(j)=='*'){
 
-            boolean skipstar=solver(s,p,i-1,j);
-            boolean notskipstar=solver(s,p,i,j-1);
+            boolean skipstar=solver(s,p,i,j-1);
+            boolean notskipstar=solver(s,p,i-1,j);
 
-            return dp[i][j]=skipstar||notskipstar;
+            return dp[i]=skipstar||notskipstar;
         }
 
         return false;
