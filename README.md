@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/urjagunjan/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/urjagunjan/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/urjagunjan/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/urjagunjan/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/urjagunjan/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/urjagunjan/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/urjagunjan/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/urjagunjan/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/urjagunjan/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/urjagunjan/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/urjagunjan/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/urjagunjan/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/urjagunjan/LeetCode/tree/master/0455-assign-cookies) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/urjagunjan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/urjagunjan/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/urjagunjan/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/urjagunjan/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/urjagunjan/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/urjagunjan/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/urjagunjan/LeetCode/tree/master/0070-climbing-stairs) |
