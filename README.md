@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/urjagunjan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/urjagunjan/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/urjagunjan/LeetCode/tree/master/0189-rotate-array) |
+| [0233-number-of-digit-one](https://github.com/urjagunjan/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0390-elimination-game](https://github.com/urjagunjan/LeetCode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/urjagunjan/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/urjagunjan/LeetCode/tree/master/0509-fibonacci-number) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/urjagunjan/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/urjagunjan/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/urjagunjan/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/urjagunjan/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0390-elimination-game](https://github.com/urjagunjan/LeetCode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/urjagunjan/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/urjagunjan/LeetCode/tree/master/0509-fibonacci-number) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/urjagunjan/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/urjagunjan/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/urjagunjan/LeetCode/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/urjagunjan/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/urjagunjan/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/urjagunjan/LeetCode/tree/master/0509-fibonacci-number) |
 | [0576-out-of-boundary-paths](https://github.com/urjagunjan/LeetCode/tree/master/0576-out-of-boundary-paths) |
