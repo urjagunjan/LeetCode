@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/urjagunjan/LeetCode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/urjagunjan/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/urjagunjan/LeetCode/tree/master/0788-rotated-digits) |
+| [1012-numbers-with-repeated-digits](https://github.com/urjagunjan/LeetCode/tree/master/1012-numbers-with-repeated-digits) |
 | [1013-fibonacci-number](https://github.com/urjagunjan/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/urjagunjan/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urjagunjan/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/urjagunjan/LeetCode/tree/master/0788-rotated-digits) |
 | [0879-profitable-schemes](https://github.com/urjagunjan/LeetCode/tree/master/0879-profitable-schemes) |
 | [0935-knight-dialer](https://github.com/urjagunjan/LeetCode/tree/master/0935-knight-dialer) |
+| [1012-numbers-with-repeated-digits](https://github.com/urjagunjan/LeetCode/tree/master/1012-numbers-with-repeated-digits) |
 | [1013-fibonacci-number](https://github.com/urjagunjan/LeetCode/tree/master/1013-fibonacci-number) |
 | [1092-shortest-common-supersequence](https://github.com/urjagunjan/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1388-pizza-with-3n-slices](https://github.com/urjagunjan/LeetCode/tree/master/1388-pizza-with-3n-slices) |
