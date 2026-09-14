@@ -10,6 +10,10 @@ class Solution {
             }
             map.get(temp).add(s);
         }
-        return new ArrayList<>(map.values());
+        List<List<String>> res=new ArrayList<>();
+        for(List<String> temp: map.values()){
+            res.add(temp);
+        }
+        return res;
     }
 }
