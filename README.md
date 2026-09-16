@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-paint-house-iii](https://github.com/urjagunjan/LeetCode/tree/master/1473-paint-house-iii) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/urjagunjan/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/urjagunjan/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/urjagunjan/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/urjagunjan/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urjagunjan/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/urjagunjan/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-paint-house-iii](https://github.com/urjagunjan/LeetCode/tree/master/1473-paint-house-iii) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/urjagunjan/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/urjagunjan/LeetCode/tree/master/1871-jump-game-vii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/urjagunjan/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/urjagunjan/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/urjagunjan/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Memoization
