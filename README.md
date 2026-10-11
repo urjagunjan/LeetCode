@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/urjagunjan/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1473-paint-house-iii](https://github.com/urjagunjan/LeetCode/tree/master/1473-paint-house-iii) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/urjagunjan/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/urjagunjan/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/urjagunjan/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/urjagunjan/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/urjagunjan/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/urjagunjan/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/urjagunjan/LeetCode/tree/master/0561-array-partition) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/urjagunjan/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/urjagunjan/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urjagunjan/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/urjagunjan/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/urjagunjan/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/urjagunjan/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1388-pizza-with-3n-slices](https://github.com/urjagunjan/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/urjagunjan/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1833-maximum-ice-cream-bars](https://github.com/urjagunjan/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/urjagunjan/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2864-maximum-odd-binary-number](https://github.com/urjagunjan/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 ## Counting Sort
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/urjagunjan/LeetCode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/urjagunjan/LeetCode/tree/master/0561-array-partition) |
+| [1833-maximum-ice-cream-bars](https://github.com/urjagunjan/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Dynamic Programming
 |  |
 | ------- |
